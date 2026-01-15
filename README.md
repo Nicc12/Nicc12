@@ -13,7 +13,7 @@ I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression 
 
 ---
 ## A Bit About Me
-* Enjoy Anime (I have been caught up with one piece since 2021, yes even the manga)
+* I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga)
 * I have two cats
 * I enjoy build projects with data, utilizing information to make a difference
   
