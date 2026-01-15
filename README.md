@@ -1,11 +1,22 @@
 ## Hi there 👋
 
-I am Nicholas, I studyed economics and statistics and currently work on empirical analysis and data science projects.
+I am Nicholas, a data scientist/analyst based in the United States.
 
-My latest project is an Empirical Analysis involving Mental Health and Public Policy. 
+I mostly focus on empirical analysts, however often enjoy Machine Learning Models. My latest project is an Empirical Analysis involving Mental Health and Public Policy. 
 
-I prefer using Python, but R-Studio is an old friend. 
+This is a fresh profile which will display my projects. 
 
+---
+## Tools & Tech
+
+I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression Analysis is my tool of choice for empirical analysis. However, Machine learning models can find their way into my projects.
+
+---
+## A Bit About Me
+* Enjoy Anime (I have been caught up with one piece since 2021, yes even the manga)
+* I have two cats
+* I enjoy build projects with data, utilizing information to make a difference
+  
 To reach me connect with me on linkeden or via email (Nicholaschavez54.72@gmail.com)
 
 <!--
