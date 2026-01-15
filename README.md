@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Nicholas, I studyed economics and statistics and currently work on empirical analysis and data science projects.
+
+My latest project is an Empirical Analysis involving Mental Health and Public Policy. 
+
+I prefer using Python, but R-Studio is an old friend. 
+
+To reach me connect with me on linkeden or via email (Nicholaschavez54.72@gmail.com)
+
 <!--
 **Nicc12/Nicc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
