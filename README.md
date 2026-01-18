@@ -13,7 +13,7 @@ This is a fresh profile which will display my projects.
 I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression Analysis is my tool of choice for empirical analysis. However, Machine learning models can find their way into my projects. SQL is an additonal tool I find myself using.  
 
 ---
-## A Bit About Me
+## A Bit About Me 🚶 
 * I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
 * I have two cats 🐾 
 * I enjoy build projects with data, utilizing information to make a difference 📝 
