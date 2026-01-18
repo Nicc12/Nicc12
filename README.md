@@ -20,6 +20,11 @@ I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression 
   
 To reach me connect with me on linkeden or via email (Nicholaschavez54.72@gmail.com) 📪 
 
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+
 <!--
 **Nicc12/Nicc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
