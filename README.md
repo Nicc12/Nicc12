@@ -8,6 +8,7 @@ This is a fresh profile which will display my projects.
 
 ---
 ## Tools & Tech
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold)
 
 I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression Analysis is my tool of choice for empirical analysis. However, Machine learning models can find their way into my projects. SQL is an additonal tool I find myself using.  
 
