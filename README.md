@@ -1,4 +1,5 @@
-## Hi there 👋 Welcome to my GitHub page ![Static Badge](https://img.shields.io/badge/Nicc12%20-%20gray?style=for-the-badge&logo=GitHub&logoColor=white&label=GitHub)
+![Static Badge](https://img.shields.io/badge/Nicc12%20-%20gray?style=for-the-badge&logo=GitHub&logoColor=white&label=GitHub)
+## Hi there 👋 Welcome to my GitHub page
 
 I am Nicholas, a data scientist/analyst based in the United States.
 
