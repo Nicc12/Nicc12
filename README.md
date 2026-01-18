@@ -14,11 +14,11 @@ I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression 
 
 ---
 ## A Bit About Me
-* I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga)
-* I have two cats
-* I enjoy build projects with data, utilizing information to make a difference
+* I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
+* I have two cats 🐾 
+* I enjoy build projects with data, utilizing information to make a difference 📝 
   
-To reach me connect with me on linkeden or via email (Nicholaschavez54.72@gmail.com)
+To reach me connect with me on linkeden or via email (Nicholaschavez54.72@gmail.com) 📪 
 
 <!--
 **Nicc12/Nicc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
