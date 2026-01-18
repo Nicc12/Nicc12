@@ -21,7 +21,7 @@ To reach me connect with me on [linkeden](https://linkedin.com/in/nicholaschav) 
 | Project | Description | Tech |
 |--------|-------------|------|
 |🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Regression Analysis on Mental Health | Python, Excel, Microsoft Word |
-|😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Data Exploration on Covid Dataset | MySQL|
+|😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/blob/main/README.md) | Data Exploration on Covid Dataset | MySQL|
 <!--
 **Nicc12/Nicc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
