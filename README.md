@@ -13,7 +13,7 @@ I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression 
 * I have two cats 🐾 
 * I enjoy build projects with data, utilizing information to make a difference 📝 
   
-To reach me connect with me on linkeden or via email (Nicholaschavez54.72@gmail.com) 📪 
+To reach me connect with me on [linkeden](in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪 
 
 ### 📌 Featured Projects
 
