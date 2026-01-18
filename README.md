@@ -7,7 +7,7 @@ My name is Nicholas Chavez, I am a data analyst based in the United States. I mo
 
 I prefer using Python, but R-Studio is an old friend. Multi-Variable Regression Analysis is my tool of choice for empirical analysis. However, Machine learning models can find their way into my projects. SQL is an additonal tool I find myself using.  
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## A Bit About Me 🚶 
 * I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
