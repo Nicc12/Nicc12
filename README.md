@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Nicc12%20-%20gray?style=for-the-badge&logo=GitHub&logoColor=white&label=GitHub)
 ## Welcome to my GitHub page 🙋
 
-My name is Nicholas Chavez, I am a data analyst based in the United States. I mostly focus on empirical analysts, however often enjoy Machine Learning Models. My latest project is an Empirical Analysis involving Mental Health and Public Policy. 
+My name is Nicholas Chavez, I am a data analyst based in the United States. I mostly focus on empirical analysts, however I often enjoy Machine Learning Models. My latest project is an Empirical Analysis involving Mental Health and Public Policy. 
 
 ## Tools & Tech 🧑‍💻
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold)
