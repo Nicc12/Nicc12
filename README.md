@@ -12,7 +12,8 @@ Throughout working as a Data Analyst I have used tools such Python, JuypterNoteb
 ## A Bit About Me 🚶 
 * I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
 * I have two cats 🐾 
-* I enjoy build projects with data, utilizing information to make a difference 📝 
+* I enjoy build projects with data, utilizing information to make a difference 📝
+* If I am not analyzing data then you can find me at the gym 🏋️‍♂️  
   
 To reach me connect with me on [linkeden](https://linkedin.com/in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪 
 
