@@ -23,7 +23,7 @@ To reach me connect with me on [linkeden](https://linkedin.com/in/nicholaschav) 
 |--------|-------------|------|
 |🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Regression Analysis on Mental Health | Python, JuypterNotebook, Excel, Microsoft Word |
 |😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Data Exploration on Covid Dataset | MySQL, SQL|
-|🛍️ [Customer Segmentation Analysis]() | Exploratory data analysis on transaction data, determining key KPI's for targeted marketing strategies | R-Studio, R |
+|🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Exploratory data analysis on transaction data, determining key KPI's for targeted marketing strategies | R-Studio, R |
 <!--
 **Nicc12/Nicc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
