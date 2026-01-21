@@ -5,11 +5,11 @@ My name is Nicholas Chavez, I am a data analyst based in the United States. I mo
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
+| Project | Key Insights/Method | Stack |
 |--------|-------------|------|
-|🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Regression Analysis on Mental Health | Python, JuypterNotebook, Excel, Microsoft Word |
-|😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Data Exploration on Covid Dataset | MySQL, SQL|
-|🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Exploratory data analysis on transaction data, determining key KPI's for targeted marketing strategies | R-Studio, R |
+|🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Used Regression to identify policy impacts on wellness. | Python, JuypterNotebook, Excel, Microsoft Word |
+|🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Applied clustering to identify high-value groups and calculate LTV. | R-Studio, R |
+|😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Deep-dive into global trends using advanced joins and CTEs.| MySQL, SQL|
 
 ## Tools & Tech 🧑‍💻
 
