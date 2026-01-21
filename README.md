@@ -28,7 +28,7 @@ Throughout working as a Data Analyst I have used tools such Python, Juypter Note
 * I enjoy build projects with data, utilizing information to make a difference 📝
 * If I am not analyzing data then you can find me at the gym 🏋️‍♂️
 
-To reach me connect with me on [linkeden](https://linkedin.com/in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪  
+To reach me connect with me on [linkedIn](https://linkedin.com/in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪  
   
 <!--
 **Nicc12/Nicc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
