@@ -7,7 +7,7 @@ My name is Nicholas Chavez, I am a data analyst based in the United States. I mo
 
 Throughout working as a Data Analyst I have used tools such Python, JuypterNotebooks, R, R-Studio, SQL, MySQL, and Excel. All these tools find their way in my project depending on which tool I prefer for the task at hand. 
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## A Bit About Me 🚶 
 * I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
