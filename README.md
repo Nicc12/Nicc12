@@ -7,8 +7,8 @@ My name is Nicholas Chavez, I am a data analyst based in the United States. I mo
 
 | Project | Key Insights/Method | Stack |
 |--------|-------------|------|
-|🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Used Regression to identify policy impacts on wellness. | ![Python](https://img.shields.io/badge/Python%20-%20gray) ![JuypterNotebook](https://img.shields.io/badge/JuypterNotebook%20-%20gray) ![Excel](https://img.shields.io/badge/Excel%20-%20gray), ![MicrosoftWord](https://img.shields.io/badge/MicrosoftWord-%20gray) |
-|🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Applied clustering to identify high-value groups and calculate LTV. | ![R-Studio](https://img.shields.io/badge/RStudio%20-%20gray), ![R](https://img.shields.io/badge/R%20-%20gray) |
+|🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Used Regression to identify policy impacts on wellness. | ![Python](https://img.shields.io/badge/Python%20-%20gray) ![JuypterNotebook](https://img.shields.io/badge/JuypterNotebook%20-%20gray) ![Excel](https://img.shields.io/badge/Excel%20-%20gray) ![MicrosoftWord](https://img.shields.io/badge/MicrosoftWord-%20gray) |
+|🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Applied clustering to identify high-value groups and calculate LTV. | ![R-Studio](https://img.shields.io/badge/RStudio%20-%20gray) ![R](https://img.shields.io/badge/R%20-%20gray) |
 |😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Deep-dive into global trends using advanced joins and CTEs.| ![MySQL](https://img.shields.io/badge/MySQL%20-%20gray) ![SQL](https://img.shields.io/badge/SQL%20-%20gray)|
 
 ## Tools & Tech 🧑‍💻
