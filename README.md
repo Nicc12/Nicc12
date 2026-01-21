@@ -3,6 +3,14 @@
 
 My name is Nicholas Chavez, I am a data analyst based in the United States. I mostly focus on empirical analysts, however I often enjoy Machine Learning Models. My latest project is an Empirical Analysis involving Mental Health and Public Policy and an additonal customer segmentation project which utilized statistical technique to identify key groups of interest and calculate KPIs. 
 
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+|🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Regression Analysis on Mental Health | Python, JuypterNotebook, Excel, Microsoft Word |
+|😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Data Exploration on Covid Dataset | MySQL, SQL|
+|🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Exploratory data analysis on transaction data, determining key KPI's for targeted marketing strategies | R-Studio, R |
+
 ## Tools & Tech 🧑‍💻
 
 Throughout working as a Data Analyst I have used tools such Python, JuypterNotebooks, R, R-Studio, SQL, MySQL, and Excel. All these tools find their way in my project depending on which tool I prefer for the task at hand. 
@@ -11,14 +19,6 @@ Throughout working as a Data Analyst I have used tools such Python, JuypterNoteb
 
 [![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicc12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicc12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-|🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Regression Analysis on Mental Health | Python, JuypterNotebook, Excel, Microsoft Word |
-|😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Data Exploration on Covid Dataset | MySQL, SQL|
-|🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Exploratory data analysis on transaction data, determining key KPI's for targeted marketing strategies | R-Studio, R |
 
 ## A Bit About Me 🚶 
 * I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
