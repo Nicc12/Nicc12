@@ -12,7 +12,7 @@ Throughout working as a Data Analyst I have used tools such Python, JuypterNoteb
 [![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicc12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicc12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
