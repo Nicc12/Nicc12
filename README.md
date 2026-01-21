@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Nicc12%20-%20gray?style=for-the-badge&logo=GitHub&logoColor=white&label=GitHub)
 ## Welcome to my GitHub page 🙋
 
-My name is Nicholas Chavez, I am a data analyst based in the United States. I mostly focus on empirical analysts, however I often enjoy Machine Learning Models. My latest project is an Empirical Analysis involving Mental Health and Public Policy and an additonal customer segmentation project which utilized statistical technique to identify key groups of interest and calculate KPIs. 
+My name is Nicholas Chavez, I am a data analyst based in the United States. I mostly focus on empirical analysts, however I often enjoy machine learning models. My latest project is an empirical analysis involving mental health and public policy and an additonal project is a customer segmentation project which utilized statistical techniques to identify key groups of interest and calculate key preformance indicators such as Customer Lifetime Value.
 
 ## 📌 Featured Projects
 
