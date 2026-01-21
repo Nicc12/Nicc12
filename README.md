@@ -11,7 +11,6 @@ Throughout working as a Data Analyst I have used tools such Python, JuypterNoteb
 
 [![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicc12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicc12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-To reach me connect with me on [linkeden](https://linkedin.com/in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪 
 
 ### 📌 Featured Projects
 
@@ -25,7 +24,9 @@ To reach me connect with me on [linkeden](https://linkedin.com/in/nicholaschav) 
 * I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
 * I have two cats 🐾 
 * I enjoy build projects with data, utilizing information to make a difference 📝
-* If I am not analyzing data then you can find me at the gym 🏋️‍♂️  
+* If I am not analyzing data then you can find me at the gym 🏋️‍♂️
+
+To reach me connect with me on [linkeden](https://linkedin.com/in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪  
   
 <!--
 **Nicc12/Nicc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
