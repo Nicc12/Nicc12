@@ -7,6 +7,7 @@ My name is Nicholas Chavez, a Data Analyst based in the United States specializi
 
 | Project | Key Insights/Method | Stack |
 |--------|-------------|------|
+|💓[Predictive Modeling of Coronary Heart Disease](https://github.com/Nicc12/Predictive-Modeling-of-Coronary-Heart-Disease) | Used machine learning models to accurately predict Coronary Heart Disease | |
 |🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Used Regression to identify policy impacts on wellness. | ![Python](https://img.shields.io/badge/Python%20-%20gray) ![JuypterNotebook](https://img.shields.io/badge/JuypterNotebook%20-%20gray) ![Excel](https://img.shields.io/badge/Excel%20-%20gray) ![MicrosoftWord](https://img.shields.io/badge/MicrosoftWord-%20gray) |
 |🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Applied clustering to identify high-value groups and calculate CLV. | ![R-Studio](https://img.shields.io/badge/RStudio%20-%20gray) ![R](https://img.shields.io/badge/R%20-%20gray) |
 |😷 [Advanced SQL Covid Data Exploration](https://github.com/Nicc12/Advance-SQL-Covid-Data-Exploration/tree/main) | Deep-dive into global trends using advanced joins and CTEs.| ![MySQL](https://img.shields.io/badge/MySQL%20-%20gray) ![SQL](https://img.shields.io/badge/SQL%20-%20gray)|
