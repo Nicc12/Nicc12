@@ -17,12 +17,6 @@ Throughout working as a Data Analyst I have used tools such Python, Juypter Note
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## A Bit About Me 🚶 
-* I enjoy Anime (I have been caught up with one piece since 2021, yes even the manga) 👒 
-* I have two cats 🐾 
-* I enjoy build projects with data, utilizing information to make a difference 📝
-* If I am not analyzing data then you can find me at the gym 🏋️‍♂️
-
 To reach me connect with me on [linkedIn](https://linkedin.com/in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪  
   
 <!--
