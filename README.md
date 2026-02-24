@@ -10,6 +10,7 @@ My name is Nicholas Chavez, a Data Analyst based in the United States specializi
 |💓[Predictive Modeling of Coronary Heart Disease](https://github.com/Nicc12/Predictive-Modeling-of-Coronary-Heart-Disease) | Leveraged machine learning to identify high-risk heart disease patients. Built a functional risk assessment tool. | ![Python](https://img.shields.io/badge/Python%20-%20gray) ![JuypterNotebook](https://img.shields.io/badge/JuypterNotebook%20-%20gray) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20-%20gray?style=plastic) |
 |🧠 [Mental Health Empirical Analysis](https://github.com/Nicc12/Mental-Health-Empirical-Analysis-in-Python) | Used Regression to identify policy impacts on wellness. | ![Python](https://img.shields.io/badge/Python%20-%20gray) ![JuypterNotebook](https://img.shields.io/badge/JuypterNotebook%20-%20gray) ![Excel](https://img.shields.io/badge/Excel%20-%20gray) ![MicrosoftWord](https://img.shields.io/badge/MicrosoftWord-%20gray) |
 |🛍️ [Customer Segmentation Analysis](https://github.com/Nicc12/Customer-Segmentation-Analysis) | Applied clustering to identify high-value groups and calculate CLV. | ![R-Studio](https://img.shields.io/badge/RStudio%20-%20gray) ![R](https://img.shields.io/badge/R%20-%20gray) |
+|💸[Financial Analysis Dashboard](https://github.com/Nicc12/Financial-Analysis-Dashboard) | Cost Benefit Analysis on 6 years of revenue data. | ![Excel](https://img.shields.io/badge/Excel%20-%20gray)
 
 ## Tools & Tech 🧑‍💻
 
