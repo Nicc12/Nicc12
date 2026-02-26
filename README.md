@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Nicc12%20-%20gray?style=for-the-badge&logo=GitHub&logoColor=white&label=GitHub)
 ## Welcome to my GitHub page 🙋
 
-My name is Nicholas Chavez, a Data Analyst based in the United States specializing in empirical analysis, predictive modeling, and Business Analytics. My work bridges the gap between raw data and policy/business strategy. I have worked on project that involved tools all the way from advanced power query in excel to machine learning models in python.
+My name is Nicholas Chavez, a Data Analyst based in the United States specializing in empirical analysis, predictive modeling, and Business Analytics. My work bridges the gap between raw data and policy/business strategy. I have worked on projects that involved tools all the way from power query in excel to machine learning models in python.
 
 ## 📌 Featured Projects
 
