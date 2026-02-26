@@ -22,6 +22,8 @@ To reach me, connect with me on [linkedIn](https://linkedin.com/in/nicholaschav)
 ## Latest Project 📓 
 ### Retail Sales Analysis with PowerQuery [View](https://github.com/Nicc12/Retail-Sales-Analysis)
 
+<img src="RetailSalesData.gif" width="600" alt="Presentation Demo">
+
 <!--
 
 
