@@ -20,8 +20,7 @@ Throughout working as a Data Analyst I have used tools such Python, Juypter Note
 To reach me, connect with me on [linkedIn](https://linkedin.com/in/nicholaschav) or via email (Nicholaschavez54.72@gmail.com) 📪  
 ---
 ## Latest Project 📓 
-
-[Retail Sales Analysis with PowerQuery](https://github.com/Nicc12/Retail-Sales-Analysis)
+### Retail Sales Analysis with PowerQuery [View](https://github.com/Nicc12/Retail-Sales-Analysis)
 
 <!--
 
